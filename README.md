@@ -1,0 +1,1 @@
+shoe-verse-assets
