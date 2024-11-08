@@ -1,0 +1,125 @@
+{
+  "Banner": [
+    {
+      "url": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/main/banner1.png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/banner2.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/cat1.png",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/cat2.png",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/cat3.png",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/cat4.png",
+      "title": "Skechers"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/cat5.png",
+      "title": "Reebok"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/cat6.png",
+      "title": "Lacoste"
+    }
+
+  ],
+  "Items": [
+    {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/shoes1.png",
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/n1.png",
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/n2.png",
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/n3.png",
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/n4.png",
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/n5.png"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+      ],
+      "title": "Pink singlet"
+    },
+    {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/shoes2.png"
+      ],
+      "price": 55,
+      "rating": 4.1,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+         "43",
+	"44"
+
+      ],
+      "title": "Jean Coat"
+    },
+    {
+      "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
+      "picUrl": [
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/shoes3.png"
+      ],
+      "price": 75,
+      "rating": 4.5,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+
+      ],
+      "title": "Orange Knit Sweater"
+    },
+    {
+      "description": "This stylish red and black plaid shirt is perfect for any occasion. Made from a soft cotton blend, it's comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://raw.githubusercontent.com/berkkabacelik/shoe-verse-assets/refs/heads/main/shoes4.png"
+      ],
+      "price": 40,
+      "rating": 4.2,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+         "43",
+	"44"
+
+      ],
+      "title": "Plaid shirt"
+    }
+  ]
+}
